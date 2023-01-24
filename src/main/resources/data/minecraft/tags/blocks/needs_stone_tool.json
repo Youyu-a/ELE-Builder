@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "builder:vertical_cut_copper_slab",
+    "builder:vertical_weathered_cut_copper_slab",
+    "builder:vertical_oxidized_cut_copper_slab",
+    "builder:vertical_exposed_cut_copper_slab",
+    "builder:vertical_waxed_cut_copper_slab",
+    "builder:vertical_waxed_weathered_cut_copper_slab",
+    "builder:vertical_waxed_oxidized_cut_copper_slab",
+    "builder:vertical_waxed_exposed_cut_copper_slab"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "builder:vertical_oak_slab",
+    "builder:vertical_dark_oak_slab",
+    "builder:vertical_spruce_slab",
+    "builder:vertical_birch_slab",
+    "builder:vertical_jungle_slab",
+    "builder:vertical_acacia_slab",
+    "builder:vertical_mangrove_slab",
+    "builder:vertical_warped_slab",
+    "builder:vertical_crimson_slab"
+  ]
+}
